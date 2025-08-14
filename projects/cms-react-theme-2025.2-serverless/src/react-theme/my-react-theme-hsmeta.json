@@ -1,0 +1,8 @@
+{
+    "uid": "my-react-theme",
+    "type": "react-theme",
+    "config": {
+      "themePath": "my-react-theme",
+      "secretNames": []
+    }
+  }
