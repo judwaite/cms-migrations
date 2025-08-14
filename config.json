@@ -5,11 +5,6 @@
       "label": "Create a CMS react theme on 2025.2",
       "path": "projects/cms-react-theme-2025.2",
       "insertPath": "./"
-    },    {
-      "name": "cms-hubl-theme-2025.2",
-      "label": "Create a CMS HubL theme on 2025.2",
-      "path": "projects/cms-hubl-theme-2025.2",
-      "insertPath": "./"
     },
     {
       "name": "cms-react-theme-2025.2-serverless",
@@ -18,11 +13,6 @@
       "insertPath": "./"
     },
     {
-        "name": "cms-react-theme-2023.2",
-        "label": "Create a CMS react theme on 2023.2",
-        "path": "projects/cms-react-theme-2023.2",
-        "insertPath": "./"
-      },    {
         "name": "cms-hubl-theme-2023.2",
         "label": "Create a CMS HubL theme on 2023.2",
         "path": "projects/cms-hubl-theme-2023.2",
