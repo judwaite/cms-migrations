@@ -2,25 +2,25 @@
   "projects": [
     {
       "name": "cms-react-theme-2025.2",
-      "label": "NEW THEME TESTING – Create a CMS react theme on 2025.2",
+      "label": "CREATE 2025.2 THEME",
       "path": "projects/cms-react-theme-2025.2",
       "insertPath": "./"
     },
     {
       "name": "cms-react-theme-2025.2-serverless",
-      "label": "NEW THEME TESTING – Create a CMS react theme on 2025.2 with serverless functions",
+      "label": "CREATE 2025.2 THEME (WITH SERVERLESS)",
       "path": "projects/cms-react-theme-2025.2-serverless",
       "insertPath": "./"
     },
     {
         "name": "cms-hubl-theme-2023.2",
-        "label": "MIGRATION TESTING - Create a CMS HubL theme on 2023.2",
+        "label": "MIGRATE 2023.2 THEME",
         "path": "projects/cms-hubl-theme-2023.2",
         "insertPath": "./"
       },
       {
         "name": "cms-react-theme-2023.2-serverless",
-        "label": "MIGRATION TESTING - Create a CMS react theme on 2023.2 with serverless functions",
+        "label": "MIGRATE 2023.2 THEME (WITH SERVERLESS)",
         "path": "projects/cms-react-theme-2023.2-serverless",
         "insertPath": "./"
       }
