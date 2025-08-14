@@ -1,6 +1,0 @@
-{
-  "type": "module",
-  "dependencies": {
-    "@hubspot/cms-components": "latest"
-  }
-}
