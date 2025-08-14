@@ -1,0 +1,8 @@
+{
+    "uid": "cms-js-test",
+    "type": "theme",
+    "config": {
+      "themePath": "cms-js-test",
+      "secretNames": []
+    }
+}

@@ -1,0 +1,28 @@
+<!--
+    templateType: page
+    isAvailableForNewContent: true
+    label: Page Url Test
+-->
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    {% if content.html_title %}<title>{{ content.html_title }}</title>{% endif %}
+    <meta name="description" content="{{ content.meta_description }}">
+    {% if brand_settings.primaryFavicon.src %}
+      <link rel="shortcut icon" href="{{ brand_settings.primaryFavicon.src }}" />
+    {% endif %}
+    {{ standard_header_includes }}
+  </head>
+  <body>
+    {% dnd_area "dnd_area"
+      label="Main section"
+    %}
+
+    {% end_dnd_area %}
+
+    {% module "pageurl_test" path="@projects/cms-js-tests-project-react-theme/theme/cms-js-test/components/modules/PageUrlTest" %}
+
+    {{ standard_footer_includes }}
+  </body>
+</html>
