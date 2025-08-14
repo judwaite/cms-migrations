@@ -6,8 +6,9 @@
     "secretKeys": [],
     "endpoint": {
         "path": "fetch-quote",
-        "method": ["GET"]
+        "methods": ["GET"]
     }
   }
 }
+
 
