@@ -2,7 +2,7 @@
   "uid": "myfunc",
   "type": "app-function",
   "config": {
-    "entrypoint": "function.js",
+    "entrypoint": "app/functions/function.js",
     "secretKeys": [],
     "endpoint": {
         "path": "fetch-quote",
@@ -10,5 +10,6 @@
     }
   }
 }
+
 
 
